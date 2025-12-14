@@ -8,10 +8,9 @@ I have a solid foundation in **C, HTML, and CSS**, with some experience in **Jav
 
 ---
 
-### 💡 What Drives Me
-* **Unconventional Solutions:** I believe the "standard" way isn't always the *fun* way. I enjoy finding innovative, out-of-the-box solutions to niche problems, even if it means seeing a bit of failure first.
-* **Reviving the Classics:** A lot of my work focuses on keeping older games (like *Brian Lara Cricket 99, Cricket 07, Rugby 08* & others) alive on modern hardware through custom patches and widescreen fixes.
-* **Experimental Coding:** I'm always looking for that next weird idea to prototype.
+### ⚡ What Drives Me
+* **Reviving the Classics:** Writing patches to keep old games alive on modern hardware.
+* **The Unorthodox Approach:** I prefer finding experimental, out-of-the-box solutions over the "standard" way.
 
 ---
 
