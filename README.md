@@ -47,6 +47,7 @@ I have a solid foundation in **[C](https://en.wikipedia.org/wiki/C_(programming_
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Cricket07WidescreenFix](https://github.com/retrobone/Cricket07WidescreenFix)** | A modern widescreen fix for EA Sports Cricket 07. | `C++` |
+| **[Cricket07FileLoader](https://github.com/retrobone/Cricket07FileLoader)** | Direct file loading support and increased memory limit for Cricket 07. | `C++` |
 | **[Rugby08WidescreenFix](https://github.com/retrobone/Rugby08WidescreenFix)** | Bringing Rugby 08 into the HD era with custom HUD scaling. | `C++` |
 | **[GBB_Tool](https://github.com/retrobone/GBB_Tool)** | A tool to view/edit `.gbb` files for Brian Lara Cricket '99. | `Python` |
 | **[code-work](https://github.com/retrobone/code-work)** | My personal code archive and practice projects. | `C, HTML` |
