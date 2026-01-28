@@ -4,7 +4,7 @@
 
 I'm an undergrad student based in **Delhi, India**, currently pursuing my **BCA at Maharaja Surajmal Institute (MSI), Janakpuri**.
 
-I have a solid foundation in **[C](https://en.wikipedia.org/wiki/C_(programming_language))**, **[HTML](https://www.w3.org/html/)**, and **[CSS](https://www.w3.org/Style/CSS/)**, with some experience in **[Java](https://www.oracle.com/java/)**. Currently, I'm leveling up my skills in **[C++](https://isocpp.org/)** and **[Python](https://www.python.org/)**. My niche lies in **reverse engineering old games and game modding**. Beyond just writing code, I love taking things apart to see how they tick and exploring **unorthodox ideas**.
+I have knowledge of **[C](https://en.wikipedia.org/wiki/C_(programming_language))**, **[C++](https://en.wikipedia.org/wiki/C%2B%2B)** , **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))** with some experience in **[Java](https://www.oracle.com/java/)**. Currently, I'm leveling up my skills in **[C++](https://isocpp.org/)** and **[Python](https://www.python.org/)**. My niche lies in **reverse engineering old games and game modding**. Beyond just writing code, I love taking things apart to see how they tick and exploring **unorthodox ideas**.
 
 ---
 
