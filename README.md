@@ -56,11 +56,7 @@ I have knowledge of **[C](https://en.wikipedia.org/wiki/C_(programming_language)
 
 ### 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=retrobone&show_icons=true&theme=merko" alt="Kevin's GitHub Stats" />
-</p>
-
----
+![Stats](./profile/stats.svg)
 
 ### 📫 Connect with me
 
